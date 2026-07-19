@@ -140,16 +140,6 @@ MySQL
 
 ---
 
-# 🎯 2026 Goals
-
-- Build 10+ Production-Level Projects
-- Master Spring Boot
-- Contribute to Open Source
-- Strengthen DSA
-- Land a Software Developer Role
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
