@@ -1,118 +1,179 @@
-<h1 align="center">Hi 👋, I'm Mohan Mastiholi</h1>
-<h3 align="center">Java Full Stack Developer | Computer Science Engineer | Open Source Enthusiast</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# Hi there 👋, I'm Mohan Mastiholi
 
-## 🚀 About Me
+### Java Full Stack Developer • Computer Science Engineer • Open Source Learner
 
-- 🎓 Computer Science Engineering Graduate
-- 💻 Passionate about Java Full Stack Development
-- 🌱 Currently learning **React, Spring Boot, REST APIs & DSA**
-- 🔭 Working on Full Stack Projects
-- 📫 Reach me at **mastiholimohan2004@gmail.com**
-- ⚡ Fun Fact: I enjoy solving coding problems and building real-world applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Real+World+Applications;Always+Learning+Something+New"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+```java
+public class Mohan {
+
+    String role = "Java Full Stack Developer";
+
+    String[] languages = {
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS"
+    };
+
+    String[] frameworks = {
+        "Spring Boot",
+        "Spring Security",
+        "React"
+    };
+
+    String database = "MySQL";
+
+    String currentFocus = "Building scalable full-stack applications";
+
+}
+```
+
+- 🎓 Computer Science Engineering Graduate
+- 💻 Passionate about Backend Development & Full Stack Development
+- 🌱 Currently learning Advanced Spring Boot, React & System Design
+- 🚀 Interested in Open Source and Software Development
+- 📍 India
+
+---
+
+# ⚒️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+</p>
 
 ### Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,git,github,vscode,postman"/>
+</p>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🏋️ Fitness Management System
+## 🏋️ Fitness Management System
 
-A Full Stack web application for managing gym members and subscriptions.
+A complete Full Stack web application built for managing gym operations.
 
 ### Features
 
-- Admin Login
+- Secure Admin Login
 - Client Management
 - Membership Plans
 - Invoice Generation
 - BMI Calculator
-- Protein Intake Calculator
-- Water Intake Calculator
 - Calories Calculator
+- Protein Calculator
+- Water Intake Calculator
 
 ### Tech Used
 
-- Java
-- Spring Boot
-- Spring Security
-- React
-- MySQL
-- REST API
+```
+Java
+Spring Boot
+Spring Security
+React
+REST API
+MySQL
+```
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohan-mastiholi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohan-mastiholi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan-mastiholi&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-mastiholi&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-mastiholi&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohan-mastiholi&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohan-mastiholi&theme=onedark&margin-w=15"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohan-mastiholi&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
-[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohan-mastiholi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohan-mastiholi&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 Currently Learning
 
-<p align="left">
+- Spring Boot Microservices
+- React Ecosystem
+- REST APIs
+- Data Structures & Algorithms
+- System Design
+
+---
+
+# 🎯 2026 Goals
+
+- Build 10+ Production-Level Projects
+- Master Spring Boot
+- Contribute to Open Source
+- Strengthen DSA
+- Land a Software Developer Role
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/Mohan-mastiholi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohan-mastiholi-478b16311/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mastiholimohan2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:mastiholimohan2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐️ From <a href="https://github.com/Mohan-mastiholi">Mohan Mastiholi</a>
+### 💡 "First, solve the problem. Then, write the code."
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=Mohan-mastiholi&style=for-the-badge&color=blue"/>
+
+</div>
