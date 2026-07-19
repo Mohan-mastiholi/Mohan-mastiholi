@@ -9,7 +9,7 @@
 - 💻 Passionate about Java Full Stack Development
 - 🌱 Currently learning **React, Spring Boot, REST APIs & DSA**
 - 🔭 Working on Full Stack Projects
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **mastiholimohan2004@gmail.com**
 - ⚡ Fun Fact: I enjoy solving coding problems and building real-world applications.
 
 ---
